@@ -6,16 +6,16 @@
 
 ## 🚀 Features
 
-✅ **AI-Powered Itinerary Generation**  
-✅ **Hotel, Flight & Local Transport Booking**  
-✅ **Smart Budget Optimization**  
-✅ **Real-Time Weather Forecasting**  
-✅ **Google Maps Integration**  
-✅ **Expense Splitter for Groups**  
-✅ **Trip Collaboration & Sharing**  
-✅ **Local Event Alerts & Recommendations**  
-✅ **Offline Access & Itinerary Export (PDF)**  
-✅ **AI Chatbot for Travel Help**
+- **AI-Powered Itinerary Generation**  
+- **Hotel, Flight & Local Transport Booking**  
+- **Smart Budget Optimization**  
+- **Real-Time Weather Forecasting**  
+- **Google Maps Integration**  
+- **Expense Splitter for Groups**  
+- **Trip Collaboration & Sharing**  
+- **Local Event Alerts & Recommendations**  
+- **Offline Access & Itinerary Export (PDF)**  
+- **AI Chatbot for Travel Help**
 
 ---
 
@@ -39,6 +39,7 @@
 ![Picture2](Picture2.png)
 ![Picture3](Picture3.png)
 ![Picture4](Picture4.png)
+![Picture5](Picture5.png)
 
 ---
 
