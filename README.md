@@ -25,7 +25,7 @@
 |-------------|----------------------------|
 | Frontend    | React, Vite, HTML, CSS, JS |
 | Backend     | Java, Spring Boot          |
-| Database    | MySQL                      |
+| Database    | Firebase                      |
 | APIs Used   | Google Places API, OpenWeatherMap, Gemini AI (chatbot) |
 | Tools       | Postman, VS Code, Git, GitHub |
 
